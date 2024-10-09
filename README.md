@@ -14,21 +14,23 @@ My professional style has been greatly influenced by the [Agile Manifesto](https
 
 I enjoy regularly reading [HBR](https://hbr.org/), [Wired](https://www.wired.com/), [Medium](https://medium.com/),[Hackernoon](https://hackernoon.com/), [Food for Agile Thought](https://age-of-product.com/), and [The Exponential View](https://www.exponentialview.co/) among others.
 
-When it comes to developing software, here are the stacks with which I have hands-on experience as an individual contributor in the most recent years. Some of these experiences have been extensive, while others have been limited, but they have all been in real-world projects: 
+When it comes to developing software, here are the stacks with which I have hands-on experience as an individual contributor in the **most recent** years. Some of these experiences have been extensive, while others have been limited, but they have all been in real-world projects: 
 
 - **Programming Languages:** JavaScript/TypeScript, Java, Python
 
 - **Frontend:** React, Angular, jQuery, Flutter
 
-- **Backend:** Spring Boot, Express, AWS Lambda
+- **Backend:** FastAPI, Flask, Spring Boot, Express, AWS Lambda
+
+- **ML/AI** Vertex AI, Gemini, PyTorch
 
 - **Database:** MongoDB / Mongoose, MySQL, Redis, PostgresSQL, Oracle DB, H2, Flyway, Liquibase
 
-- **Testing:** Jest, Jasmine, Karma, Mocha, JUnit, Cypress, Protractor, Selenium, Pact.io, Cucumber, Artillery
+- **Testing:** pytest, Jest, Jasmine, Karma, Mocha, JUnit, Cypress, Protractor, Selenium, Pact.io, Cucumber, Artillery
   
 - **Continuous Integration/Continuous Deployment (CI/CD):** GitHub Actions, Jenkins, Bitbucket, GitLab, Circle-ci
 
-- **Cloud Providers:** AWS, Scalingo, Cloud Foundry
+- **Cloud Providers:** GCP, AWS, Scalingo, Cloud Foundry
 
 - **IaC:** Pulumi, Terraform, Ansible, Bash
 
