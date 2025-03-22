@@ -12,7 +12,7 @@ After spending over 20 years working in permanent roles, I made the decision to 
 
 My professional style has been greatly influenced by the [Agile Manifesto](https://agilemanifesto.org/), the [Software Craftsmanship Manifesto](https://manifesto.softwarecraftsmanship.org/), Lean Software Development and TQM. Among others, I have found inspiration in the works of individuals such as W. Edwards Deming, Peter Drucker, Robert C. Martin, and Martin Fowler, who have played a significant role in shaping my approach and aspirations.
 
-I enjoy regularly reading [HBR](https://hbr.org/), [Wired](https://www.wired.com/), [Medium](https://medium.com/),[Hackernoon](https://hackernoon.com/), [Food for Agile Thought](https://age-of-product.com/), and [The Exponential View](https://www.exponentialview.co/) among others.
+I enjoy regularly reading [HBR](https://hbr.org/), [Wired](https://www.wired.com/), [Medium](https://medium.com/), [TechCrunch](https://techcrunch.com/), [Hackernoon](https://hackernoon.com/), [Food for Agile Thought](https://age-of-product.com/), and [The Exponential View](https://www.exponentialview.co/) among others.
 
 When it comes to developing software, here are the stacks with which I have hands-on experience as an individual contributor in the **most recent** years. Some of these experiences have been extensive, while others have been limited, but they have all been in real-world projects: 
 
@@ -36,7 +36,7 @@ When it comes to developing software, here are the stacks with which I have hand
 
 - **Infrastructure:** Kubernetes, Docker, nginx, VirtualBox, Linux
 
-- **DevOps Infrastructure:** SonarCloud, Nexus, Artifactory, Npm, AWS, New Relic, Sentry, Grafana, Kibana, Prometheus
+- **DevOps Infrastructure:** SonarCloud, Nexus, Artifactory, Npm, AWS, GCP, New Relic, Sentry, Grafana, Kibana, Prometheus
 
 Additionally, besides my personal hands-on experience, I have worked with teams that build products and projects in various stacks, including:
 
