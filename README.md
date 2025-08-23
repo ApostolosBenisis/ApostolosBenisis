@@ -58,7 +58,7 @@ Award for outstanding academic achievement – The Association of German Enginee
 
 Here are the methodologies and practices in which I am proficient, applied deeply in some areas and in more focused, specialised ways in others:
 
-* LLM-based applications, agentic workflows, RAG, embeddings, classification, re-ranking, vector databases, prompt engineering, optimisation, and evaluation of LLM workflows
+* LLM-based applications, Agentic Workflows, RAG, embeddings, classification, re-ranking, vector databases, prompt engineering, optimisation, and evaluation of LLM workflows
 * Database design and modelling (relational and NoSQL)
 * API design and development (RESTful, GraphQL, MCP – Model Context Protocol)
 * Scalable, distributed, modular, production-grade systems architecture with security and data protection compliance
